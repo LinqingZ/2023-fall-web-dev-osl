@@ -59,18 +59,36 @@ Assignments:
 
 Topics:
 
-- Git and Making contributions
-	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-	+ Rebasing
-	+ Squashing
-- Client-Server Communication
+- [Client-Server Communication (slides)](https://docs.google.com/presentation/d/1hJgCCh3UiygFQ6q8_G7_KCn332rGuo6VPHlM49JM4Ao/edit#slide=id.p)
     + Parts of a URL
     + Understanding HTTP Request-Response
-- `fetch(...)` and Promises
+- [`fetch(...)` and Promises (slides)](https://docs.google.com/presentation/d/1ctGUH2sYpqDjo268t_nL0A3u1t6tzAqwk-mw5WIxwnM/edit#slide=id.p)
 
+Assignments: 
+
+- Look for open source projects to contribute to during [Hacktoberfest](https://hacktoberfest.com/participation/)
+	+ read participation rules
 
 ## (9/29) Week 5
 
+Topics:
+
+- [Git commits and merging contributions (slides)](https://docs.google.com/presentation/d/1T8kmHkvCGy49-Z2malI1BzEH4LlN2SUNDa7ZUkyrD1s/edit?usp=sharing)
+	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+	+ Squash and Merge
+	+ Rebase and Merge
+
+Assignments:
+
+- Complete the [React Zip Search lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
+	+ You can work in your team and submit work in one PR per team
+	+ submit work by start of Week 6 class (10/6)
+- Look thru Partner Projects in class Slack channel.
+- Participate in Hacktoberfest
+	+ Try your best to make at least one PR in the month of October.
+	+ Contribution can be to documentation
+
+## (10/6) Week 6
 
 Topics:
 
@@ -82,11 +100,6 @@ Topics:
     + Query Parameters
     + Body Parameters
 - RESTful Routing
-
-## (10/6) Week 6
-
-Topics:
-
 - SDLC (software development lifecycle)
 - Design Documents
 
