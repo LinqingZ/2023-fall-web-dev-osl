@@ -1,0 +1,6 @@
+up to step 6
+question: react has getElementById is simliar to selium in python for web scrapping
+video time lamp on 16:15
+https://drive.google.com/file/d/1KRVvNXCYRxeVQJ6E6OhwcG9qBMMYdwz5/view
+
+what is document API DOM?

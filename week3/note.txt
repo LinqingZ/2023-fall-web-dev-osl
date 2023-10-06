@@ -1,0 +1,6 @@
+need to do npm install the package first then npm start
+DOM API document
+20:37
+https://drive.google.com/file/d/1KRVvNXCYRxeVQJ6E6OhwcG9qBMMYdwz5/view
+couldn't Understanding
+react is restrict on case of the JSX that is different from HTML
